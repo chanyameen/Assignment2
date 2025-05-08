@@ -4,4 +4,6 @@ format: html
 editor: visual
 ---
 
-## make changes#2 for conflicts
+
+Resolved conflict
+
